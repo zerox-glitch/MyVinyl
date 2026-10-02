@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Record icon matching public/icon.svg, scaled into the adaptive-icon safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#151210" android:strokeColor="#B45309" android:strokeWidth="1"
+        android:pathData="M54,22a32,32 0 1,0 0.01,0z" />
+    <path android:strokeColor="#2A2420" android:strokeWidth="0.6"
+        android:pathData="M54,27a27,27 0 1,0 0.01,0zM54,31a23,23 0 1,0 0.01,0zM54,35a19,19 0 1,0 0.01,0zM54,39a15,15 0 1,0 0.01,0z" />
+    <path android:fillColor="#D97706" android:pathData="M54,43.5a10.5,10.5 0 1,0 0.01,0z" />
+    <path android:strokeColor="#F5E9D3" android:strokeWidth="0.35" android:strokeAlpha="0.6"
+        android:pathData="M54,44.8a9.2,9.2 0 1,0 0.01,0z" />
+    <path android:fillColor="#0C0A09" android:pathData="M54,53a1,1 0 1,0 0.01,0z" />
+</vector>
